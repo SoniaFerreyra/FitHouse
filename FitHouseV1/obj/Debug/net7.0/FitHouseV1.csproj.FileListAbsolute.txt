@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.AssemblyInfoInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.AssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\FitHouseV1\FitHouseV1\obj\Debug\net7.0\FitHouseV1.MvcApplicationPartsAssemblyInfo.cache
